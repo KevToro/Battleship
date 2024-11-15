@@ -1,5 +1,6 @@
 package com.example.battleship.Controller;
 
+
 import com.example.battleship.model.Barco;
 import com.example.battleship.model.Maquina;
 import com.example.battleship.model.Persona;
@@ -15,7 +16,8 @@ import javafx.scene.layout.Pane;
 import javafx.scene.layout.VBox;
 
 import java.awt.*;
-import java.awt.event.MouseEvent;
+import javafx.scene.control.Button;
+import javafx.scene.input.MouseEvent;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
